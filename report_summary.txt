@@ -1,0 +1,15 @@
+Student Performance Predictor
+
+Preprocessing steps:
+- Numerical imputation with median and scaling (StandardScaler)
+- Categorical imputation with most frequent and OneHotEncoding (drop first)
+
+Models used:
+- Linear Regression for predicting G3 (final grade)
+- Logistic Regression and Decision Tree for pass/fail classification
+
+Evaluation:
+- Regression: MSE, RMSE, R2
+- Classification: Accuracy, Precision, Recall, F1, Confusion Matrix
+
+Files produced: student_g3_linear_reg.pkl, student_pass_logistic.pkl, student_pass_dt.pkl
