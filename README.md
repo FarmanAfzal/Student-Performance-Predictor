@@ -25,7 +25,7 @@ Place `student-mat.csv` (or `student-por.csv`) in the same directory as the scri
 ## 🗂️ Files in Repository
 | File | Description |
 |------|--------------|
-| `Student_Performance_Predictor_Notebook.py` | Main Python script with preprocessing and model training |
+| `ML_OPEN_ENDED by 73` | Main Python script with preprocessing and model training |
 | `report_summary.txt` | Short summary of models and metrics |
 | `student-mat.csv` | Dataset (not required to upload) |
 | `student_pass_logistic.pkl` / `student_pass_dt.pkl` / `student_g3_linear_reg.pkl` | Saved models |
