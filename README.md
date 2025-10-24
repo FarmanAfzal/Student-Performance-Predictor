@@ -33,4 +33,4 @@ Place `student-mat.csv` (or `student-por.csv`) in the same directory as the scri
 ## 🚀 How to Run
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn joblib
-python Student_Performance_Predictor_Notebook.py
+python ML_OPEN_ENDED by 73.ipynb
